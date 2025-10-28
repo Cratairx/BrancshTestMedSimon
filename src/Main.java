@@ -7,5 +7,6 @@ public class Main {
         System.out.println("testar med detta simon muhahahsdds");
 
         System.out.println("simon skrev det här hehehehehe h");
+        System.out.println("shoourdaaaa");
     }
 }

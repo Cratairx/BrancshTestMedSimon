@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("simon skrev det här hehehehehe h");
         System.out.println("shoourdaaaa");
+        System.out.println("byt till din stationära data ");
 
         // när simon har commitat/pushad så måste jag sedan pulla ner dem innan man mergar med main
     }

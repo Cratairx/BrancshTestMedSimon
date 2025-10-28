@@ -10,5 +10,6 @@ public class Main {
         System.out.println("shoourdaaaa");
 
         // när simon har commitat/pushad så måste jag sedan pulla ner dem innan man mergar med main
+        System.out.println("byt till din stationära data ");
     }
 }

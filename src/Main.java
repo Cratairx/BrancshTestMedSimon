@@ -8,5 +8,6 @@ public class Main {
 
         System.out.println("simon skrev det här hehehehehe h");
         System.out.println("shoourdaaaa");
+        System.out.println("byt till din stationära data ");
     }
 }

@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("simon skrev det här hehehehehe h");
         System.out.println("shoourdaaaa");
+
+        // när simon har commitat/pushad så måste jag sedan pulla ner dem innan man mergar med main
     }
 }
